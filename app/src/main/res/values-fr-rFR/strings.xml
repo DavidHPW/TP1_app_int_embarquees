@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1_ex1</string>
+    <string name="bouton_name_1">Valider</string>
+    <string name="hint_example">Écrivez quelque chose...</string>
+    <string name="toaster_message">Vous avez écrit :</string>
+</resources>

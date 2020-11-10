@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TP1_ex1</string>
+    <string name="bouton_name_1">Submit</string>
+    <string name="hint_example">Write something...</string>
+    <string name="toaster_message">You wrote : </string>
+
+</resources>
